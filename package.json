@@ -1,0 +1,26 @@
+{
+  "name": "rabbitmqscheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diprudnikov/rabbitMQScheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diprudnikov/rabbitMQScheduler/issues"
+  },
+  "homepage": "https://github.com/diprudnikov/rabbitMQScheduler#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.42.0"
+  }
+}
